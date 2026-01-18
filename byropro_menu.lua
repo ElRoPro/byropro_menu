@@ -6591,7 +6591,7 @@ local bv = false
 local bw = true
 local bx = GetPlayerServerId(PlayerPedId(-1))
 local by = GetPlayerName(bx)
-av(' byropro/Zakisek \n(PRESIONA CAPS Para Abrir)', true)
+av(' @byropro / INYECTADO \n(BLOQ MAYUS para abrir)', true)
 local function bz(I, x, y)
     SetTextFont(0)
     SetTextProportional(1)
