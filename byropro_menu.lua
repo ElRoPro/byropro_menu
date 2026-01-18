@@ -2219,23 +2219,23 @@ function byroproIdL14.CreateMenu(f, a7)
         --r = a8.r,
         --g = a8.g,
         --b = a8.b,
-        r = 255,
-        g = 145,
-        b = 120,
+        r = 138,
+        g = 43,
+        b = 226,
         a = 255
     }
     
     menuso[f].menuFocusBackgroundColor = {
-        r = 236,
-        g = 39,
-        b = 52,
+        r = 255,
+        g = 20,
+        b = 147,
         a = 255
     }
     menuso[f].titleBackgroundSprite = nil
     menuso[f].menuTextColor = {
-        r = 200,
-        g = 200,
-        b = 200,
+        r = 220,
+        g = 220,
+        b = 240,
         a = 255
     }
     menuso[f].menuSubTextColor = {
@@ -2251,15 +2251,15 @@ function byroproIdL14.CreateMenu(f, a7)
         a = 255
     }
     menuso[f].menuBackgroundColor = {
-        r = 15,
-        g = 15,
-        b = 15,
+        r = 25,
+        g = 25,
+        b = 40,
         a = 255
     }
     menuso[f].subTitleBackgroundColor = {
-        r = 0,
-        g = 9,
-        b = 9,
+        r = 40,
+        g = 25,
+        b = 60,
         a = 255
     }
     menuso[f].buttonPressedSound = {
